@@ -1,6 +1,14 @@
-# Data Communications and Networking
+# 📚 Data Communication and Networking Notes
 
-### Author: Behrouz A. Forouzan
+
+## 📖 About This Repository
+
+Welcome to the **Data Communication and Networking** repository! This project aims to provide concise and easy-to-understand notes, explanations, and resources based on the book **\"Data Communications and Networking\" by Behrouz A. Forouzan**.
+
+Whether you're a beginner or a seasoned learner, these notes will help you grasp networking concepts with clarity. I am working on this repo so it will extend day by day with networking concepts so ## 📣 Spread the Word!
+If you found this project helpful, don't forget to give it a ⭐ and share it with your friends.
+
+
 
 
 📂 Data-Communication-and-Networking  

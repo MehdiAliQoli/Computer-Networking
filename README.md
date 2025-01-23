@@ -1,67 +1,116 @@
-# Computer-Networking
-------------
-## Data Communications and Networking
+# Data Communications and Networking
 
 ### Author: Behrouz A. Forouzan
 
 ## Chapter 1: Introduction to Data Communication and Networking
 
+---
+
+### **What is Data Communication?**
+Data communication refers to the exchange of data between devices via some form of transmission medium such as a wire cable. Effective data communication requires the following characteristics:
+1. **Delivery:** Ensuring data is delivered to the correct destination.
+2. **Accuracy:** Data should be transferred without errors.
+3. **Timeliness:** Data must be delivered in a timely manner.
+
+---
+
 ### **Direction of Data Flow**
 
 #### 1. Simplex
-- Unidirectional communication.
-- Example: Keyboard (data flows in one direction only).
+- Unidirectional communication where data flows in only one direction.
+- **Example:** Keyboard (input-only device)
 
 #### 2. Half Duplex
-- Both devices can transmit and receive, but not at the same time.
-- Example: Walkie-talkies (communication occurs alternately).
+- Data can flow in both directions, but only one direction at a time.
+- **Example:** Walkie-talkies (talking and listening cannot happen simultaneously)
 
 #### 3. Full Duplex
-- Both devices can transmit and receive simultaneously.
-- Example: Telephones (two-way communication at the same time).
+- Data can flow in both directions simultaneously.
+- **Example:** Telephones (both parties can talk and listen at the same time)
 
 ---
 
-### **Network**
-A network is a set of devices connected by communication links. Essential criteria for a network include:
-- **Distribution of processes**
-- **Performance, reliability, and security**
+### **Network and its Components**
+A network is a set of devices connected by communication links to share resources and information. Essential components of a network include:
+1. **Message:** The data being communicated.
+2. **Sender:** The device sending the message.
+3. **Receiver:** The device receiving the message.
+4. **Transmission Medium:** The physical path the message travels through.
+5. **Protocol:** A set of rules governing communication.
 
-#### **Types of Connections:**
-1. **Point-to-Point:** Direct connection between two devices.
-2. **Multipoint:** Multiple devices share a single link.
+#### **Performance Factors:**
+- **Throughput:** The amount of data transferred in a given time.
+- **Latency:** The time it takes for data to travel from sender to receiver.
+- **Reliability:** The ability to recover from failures.
+- **Security:** Protection of data from unauthorized access.
 
 ---
 
-### **Physical Topology**
-Defines how a network is physically laid out. Common topologies include:
-1. **Mesh Topology** - Every device connects to every other device.
-2. **Star Topology** - All devices connect to a central hub.
-3. **Bus Topology** - All devices share a common communication line.
-4. **Ring Topology** - Each device connects to exactly two other devices forming a loop.
+### **Types of Network Connections**
+
+#### 1. Point-to-Point
+- Direct connection between two devices.
+- **Example:** A dedicated cable connection between a printer and a computer.
+
+#### 2. Multipoint
+- Multiple devices share a single communication link.
+- **Example:** A shared Wi-Fi network.
+
+---
+
+### **Physical Topologies**
+Defines the layout and physical arrangement of devices in a network. Common types include:
+
+1. **Mesh Topology:**
+   - Every device is connected to every other device.
+   - Provides redundancy and reliability but is costly.
+
+2. **Star Topology:**
+   - All devices are connected to a central hub.
+   - Easy to manage but the hub is a single point of failure.
+
+3. **Bus Topology:**
+   - A single backbone cable connects all devices.
+   - Cost-effective but difficult to troubleshoot.
+
+4. **Ring Topology:**
+   - Each device is connected to exactly two others, forming a loop.
+   - Easy to install but failure in one device affects the entire network.
 
 ---
 
 ### **Categories of Networks**
-1. **Local Area Network (LAN):** Covers a small geographical area, such as a home or office.
-2. **Metropolitan Area Network (MAN):** Covers a city or large campus.
-3. **Wide Area Network (WAN):** Covers a large geographical area, such as a country or continent.
+
+1. **Local Area Network (LAN):**
+   - Covers a small geographic area (e.g., office, home).
+   - High-speed, low latency.
+
+2. **Metropolitan Area Network (MAN):**
+   - Covers a city or large campus.
+   - Intermediate scale between LAN and WAN.
+
+3. **Wide Area Network (WAN):**
+   - Covers a large geographic area (e.g., country, world).
+   - Lower speed, high latency.
 
 ---
 
-### **Internet**
-When two or more networks are connected, they form an **internetwork** or simply the **Internet.**
+### **Internet and Internetworks**
+The internet is a global network connecting millions of devices. When two or more networks are connected, they form an **internetwork.**
 
 ---
 
 ### **Protocols**
-In computer networks, communication occurs between entities in different systems. An **entity** can send and receive information, but for communication to be effective, both entities must adhere to a **protocol.**
-
-#### **What is a Protocol?**
-A protocol is a set of rules governing data communication. It defines:
-1. **Syntax:** The format and structure of the data.
-2. **Semantics:** The meaning of each section of data and actions to be taken.
+In networking, communication between devices requires a set of rules known as protocols. These rules define:
+1. **Syntax:** Structure and format of data.
+2. **Semantics:** Meaning of each piece of data.
 3. **Timing:** When and how fast data can be sent and received.
+
+#### **Common Protocols Include:**
+- **TCP/IP (Transmission Control Protocol/Internet Protocol):** Foundation of the internet.
+- **HTTP/HTTPS:** Protocol for web browsing.
+- **FTP:** Protocol for file transfers.
+- **SMTP:** Protocol for sending emails.
 
 ---
 

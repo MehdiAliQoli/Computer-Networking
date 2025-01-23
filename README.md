@@ -11,7 +11,7 @@ If you found this project helpful, don't forget to give it a ⭐ and share it wi
 
 
 ## 📂 Table of Contents
-1. [Chapter 1: Introduction to Networking](Chapter-Wise-Notes/Chapter-1.md)
+1. [Chapter 1: Introduction to Networking](Chapter-1.md)
 2. [Chapter 2: Network Models](Chapter-Wise-Notes/Chapter-2.md)
 3. [Chapter 3: TBD](Chapter-Wise-Notes/Chapter-3.md)
 4. [Additional Resources](Resources/Cheatsheets.md)
@@ -39,7 +39,7 @@ If you found this project helpful, don't forget to give it a ⭐ and share it wi
 
 
 
-## Chapter -1: Introduction to Data Communication and Networking
+## Chapter-1.md: Introduction to Data Communication and Networking
 
 ---
 

@@ -10,6 +10,16 @@ If you found this project helpful, don't forget to give it a ⭐ and share it wi
 
 
 
+## 📂 Table of Contents
+1. [Chapter 1: Introduction to Networking](Chapter-Wise-Notes/Chapter-1.md)
+2. [Chapter 2: Network Models](Chapter-Wise-Notes/Chapter-2.md)
+3. [Chapter 3: TBD](Chapter-Wise-Notes/Chapter-3.md)
+4. [Additional Resources](Resources/Cheatsheets.md)
+5. [Code Examples](Code-Examples/OSI-vs-TCPIP-Comparison.md)
+6. [How to Contribute](CONTRIBUTING.md)
+7. [License](LICENSE)
+
+
 
 📂 Data-Communication-and-Networking  
 │-- 📂 Chapter-Wise-Notes  

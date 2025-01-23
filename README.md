@@ -20,25 +20,6 @@ If you found this project helpful, don't forget to give it a ⭐ and share it wi
 7. [License](LICENSE)
 
 
-
-📂 Data-Communication-and-Networking  
-│-- 📂 Chapter-Wise-Notes  
-│   ├── Chapter-1.md  
-│   ├── Chapter-2.md  
-│   ├── Chapter-3.md  
-│-- 📂 Resources  
-│   ├── Cheatsheets.md  
-│   ├── Diagrams.md  
-│-- 📂 Code-Examples  
-│   ├── OSI-vs-TCPIP-Comparison.md  
-│-- README.md  
-│-- CONTRIBUTING.md  
-│-- .gitignore  
-
-
-
-
-
 ## Chapter-1.md: Introduction to Data Communication and Networking
 
 ---

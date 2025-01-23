@@ -2,7 +2,26 @@
 
 ### Author: Behrouz A. Forouzan
 
-## Chapter 1: Introduction to Data Communication and Networking
+
+📂 Data-Communication-and-Networking  
+│-- 📂 Chapter-Wise-Notes  
+│   ├── Chapter-1.md  
+│   ├── Chapter-2.md  
+│   ├── Chapter-3.md  
+│-- 📂 Resources  
+│   ├── Cheatsheets.md  
+│   ├── Diagrams.md  
+│-- 📂 Code-Examples  
+│   ├── OSI-vs-TCPIP-Comparison.md  
+│-- README.md  
+│-- CONTRIBUTING.md  
+│-- .gitignore  
+
+
+
+
+
+## Chapter -1: Introduction to Data Communication and Networking
 
 ---
 
